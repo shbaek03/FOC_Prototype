@@ -1,5 +1,3 @@
-//This source code implenents FOC (Field Oriented Control) algorithm using B-G431B-ESC1 development board with A2212 13T(1000KV) BLDC motor and AS5047 magnetic encoder.
-
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
